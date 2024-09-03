@@ -66,79 +66,12 @@ function page() {
             <div className="container">
               <article className="portfolio-single">
                 <div className="pbmit-short-description">
-                  <h3>Overview</h3>
+                  <h3>Aluminum Shop Fronts</h3>
                   <p>
-                    If you run an internet search for Xinterio blogs, you’ll
-                    come across hundreds of results. And figuring out which
-                    sources are reputable can take a lot of time. To help ease
-                    the process, we compiled this list of 55 of our favorite
-                    Xinterio blogs everyone in the field can learn from. Whether
-                    you’re, you’ve been a expert for years, or you{" "}
-                    <span className="pbmit-globalcolor">
-                      <u>simply want to know</u>
-                    </span>{" "}
-                    how make considering building interior well-informed
-                    decisions about your own home, there’s something on this
-                    list for any type of residential interior work. Keep this
-                    list of Xinterio blogs handy and the answers to your
-                    interior away.
+                    Shop fronts are designed to make the best possible utilization of the accessible space and light, and we might meet any.design which you come up with. Aluminum provides an exceptional solution in the construction industry. It resistant to the usual corrosion that’s caused by today’s atmospheric pollutants. It’s lightweight but in the same time lasting and strong, allowing architects to have a sizable repertoire of possible designs.
                   </p>
                 </div>
-                <div className="pbmit-single-project-details-list">
-                  <h3>Project info</h3>
-                  <div className="pbmit-portfolio-lines-wrapper">
-                    <ul className="pbmit-portfolio-lines-ul">
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Architect :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          David Oswald
-                        </span>
-                      </li>
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Client :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          Themestek
-                        </span>
-                      </li>
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Terms :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          6 month
-                        </span>
-                      </li>
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Project Type :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          Furniture
-                        </span>
-                      </li>
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Strategy :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          Minimalistic
-                        </span>
-                      </li>
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Date :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          November 22, 2020
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
+
                 <div className="pbmit-featured-img-wrapper">
                   <div className="pf-img-box">
                     <div className="row">
@@ -199,142 +132,7 @@ function page() {
                     visually appealing, and comfortable interior spaces that
                     meet the needs of the building’s occupants.
                   </p>
-                  <div className="ihbox-style-area">
-                    <div className="row g-0">
-                      <div className="col-md-6 col-xl-3">
-                        <div className="pbmit-ihbox-style-14">
-                          <div className="pbmit-ihbox-box">
-                            <div className="pbmit-icon-wrapper">
-                              <h2 className="pbmit-element-title">[30m2]</h2>
-                              <div className="pbmit-heading-desc">Bedroom</div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-md-6 col-xl-3">
-                        <div className="pbmit-ihbox-style-14">
-                          <div className="pbmit-ihbox-box">
-                            <div className="pbmit-icon-wrapper">
-                              <h2 className="pbmit-element-title">[22m2]</h2>
-                              <div className="pbmit-heading-desc">Bathroom</div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-md-6 col-xl-3">
-                        <div className="pbmit-ihbox-style-14">
-                          <div className="pbmit-ihbox-box">
-                            <div className="pbmit-icon-wrapper">
-                              <h2 className="pbmit-element-title">[28m2]</h2>
-                              <div className="pbmit-heading-desc">
-                                Workspace
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-md-6 col-xl-3">
-                        <div className="pbmit-ihbox-style-14">
-                          <div className="pbmit-ihbox-box">
-                            <div className="pbmit-icon-wrapper">
-                              <h2 className="pbmit-element-title">[15m2]</h2>
-                              <div className="pbmit-heading-desc">
-                                Kitchen area
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="pf-img-box">
-                    <div className="row">
-                      <div className="col-md-6">
-                        <div className="pbmit-animation-style1 me-md-3 first-img">
 
-                          <img
-                            src="images/portfolio/portfolio-detail-01.jpg"
-                            className="img-fluid"
-                            alt="Portfolio Detail 01"
-                          />
-
-                        </div>
-                      </div>
-                      <div className="col-md-6">
-                        <div className="pbmit-animation-style2 ms-md-3">
-
-                          <img
-                            src="images/portfolio/portfolio-detail-02.jpg"
-                            className="img-fluid"
-                            alt="Portfolio Detail 01"
-                          />
-                        </div>
-                      </div>
-                    </div>
-                    <div className="mt-4">
-                      <div className="row">
-                        <div className="col-md-6">
-                          <div className="pbmit-animation-style3 me-md-3 third-img">
-                            {/* images */}
-                            <img
-                              src="images/portfolio/portfolio-detail-03.jpg"
-                              className="img-fluid"
-                              alt="Portfolio Detail 03"
-                            />
-                          </div>
-                        </div>
-                        <div className="col-md-6">
-                          <div className="pbmit-animation-style4 ms-md-3">
-                            {/* images */}
-                            <img
-                              src="images/portfolio/portfolio-detail-04.jpg"
-                              className="img-fluid"
-                              alt="Portfolio Detail 03"
-                            />
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="py-5">
-                    <div className="pbmit-heading animation-style2">
-                      <h2 className="pbmit-title">
-                        What say our Client’s about design
-                      </h2>
-                    </div>
-                    <div>
-                      The interior designer may also work with engineers and
-                      contractors to ensure that the design is feasible and can
-                      be implemented within the construction budget. We believe
-                      that a well-designed space can have a profound impact on
-                      your well-being and quality of life. With a team of
-                      skilled designers and professionals, we are strive to
-                      provide exceptional interior design services that exceed
-                      your expectations.
-                    </div>
-                    <div className="ihbox-style-15-area">
-                      <div className="pbmit-ihbox-style-15">
-                        <div className="pbmit-ihbox-box d-flex">
-                          <div className="pbmit-ihbox-icon">
-                            <div className="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon">
-                              <i className="pbmit-xinterio-icon pbmit-xinterio-icon-quote-left" />
-                            </div>
-                          </div>
-                          <div className="pbmit-ihbox-contents">
-                            <div className="pbmit-heading-desc">
-                              "Their team are easy to work with and helped me
-                              make amazing websites. Thanks guys for all your
-                              hard work. Trust us we looked for a very long
-                              time.”
-                            </div>
-                            <h2 className="pbmit-element-title">
-                              - Satisfied client
-                            </h2>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
                   <div className="portfolio-video-bg animated fadeInRight animated-slow">
                     <div className="play-button">
                       <a
@@ -346,38 +144,7 @@ function page() {
                     </div>
                   </div>
                 </div>
-                <nav className="navigation post-navigation" aria-label="Posts">
-                  <div className="nav-links">
-                    <div className="nav-previous">
-                      <a href="blog-single-details.html" rel="prev">
-                        <span className="pbmit-post-nav-icon">
-                          <i className="pbmit-base-icon-left-arrow-1" />
-                          <span className="pbmit-post-nav-head">
-                            Previous Post
-                          </span>
-                        </span>
-                        <span className="pbmit-post-nav-wrapper">
-                          <span className="pbmit-post-nav nav-title">
-                            Lighting
-                          </span>
-                        </span>
-                      </a>
-                    </div>
-                    <div className="nav-next">
-                      <a href="#" rel="next">
-                        <span className="pbmit-post-nav-icon">
-                          <span className="pbmit-post-nav-head">Next Post</span>
-                          <i className="pbmit-base-icon-next" />
-                        </span>
-                        <span className="pbmit-post-nav-wrapper">
-                          <span className="pbmit-post-nav nav-title">
-                            Innovation
-                          </span>
-                        </span>
-                      </a>
-                    </div>
-                  </div>
-                </nav>
+
               </article>
             </div>
           </section>

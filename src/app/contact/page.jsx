@@ -62,10 +62,10 @@ function Contact() {
                 <div className="container">
                   <div className="row">
                     {/* Slide1 */}
-                    <div className="col-md-3">
-                      <article className="pbmit-miconheading-style-7">
-                        <div className="pbmit-ihbox-style-7">
-                          <div className="pbmit-ihbox-box">
+                    <div className="col-md-3 d-flex align-items-stretch">
+                      <article className="pbmit-miconheading-style-7 h-100">
+                        <div className="pbmit-ihbox-style-7 h-100">
+                          <div className="pbmit-ihbox-box h-100">
                             <div className="pbmit-icon-wrapper d-flex align-items-center">
                               <div className="pbmit-ihbox-icon">
                                 <div className="pbmit-ihbox-icon-wrapper">
@@ -97,12 +97,11 @@ function Contact() {
                       </article>
                     </div>
 
-                    {/* Repeat for other slides */}
                     {/* Slide2 */}
-                    <div className="col-md-3">
-                      <article className="pbmit-miconheading-style-7">
-                        <div className="pbmit-ihbox-style-7">
-                          <div className="pbmit-ihbox-box">
+                    <div className="col-md-3 d-flex align-items-stretch">
+                      <article className="pbmit-miconheading-style-7 h-100">
+                        <div className="pbmit-ihbox-style-7 h-100">
+                          <div className="pbmit-ihbox-box h-100">
                             <div className="pbmit-icon-wrapper d-flex align-items-center">
                               <div className="pbmit-ihbox-icon">
                                 <div className="pbmit-ihbox-icon-wrapper">
@@ -133,27 +132,26 @@ function Contact() {
                     </div>
 
                     {/* Slide3 */}
-                    <div className="col-md-3">
-                      <article className="pbmit-miconheading-style-7">
-                        <div className="pbmit-ihbox-style-7">
-                          <div className="pbmit-ihbox-box">
+                    <div className="col-md-3 d-flex align-items-stretch">
+                      <article className="pbmit-miconheading-style-7 h-100">
+                        <div className="pbmit-ihbox-style-7 h-100">
+                          <div className="pbmit-ihbox-box h-100">
                             <div className="pbmit-icon-wrapper d-flex align-items-center">
                               <div className="pbmit-ihbox-icon">
                                 <div className="pbmit-ihbox-icon-wrapper">
                                   <div className="pbmit-icon-wrapper pbmit-icon-type-icon">
-                                    <i className="pbmit-xinterio-icon pbmit-xinterio-icon-3d" />
+                                    <i className="pbmit-xinterio-icon pbmit-xinterio-icon-house" />
                                   </div>
                                 </div>
                               </div>
                               <div className="pbmit-title-wrap">
-                                <h2 className="pbmit-element-title">
-                                  Call Us</h2>
+                                <h2 className="pbmit-element-title">Contact Us</h2>
                               </div>
                             </div>
                             <div className="pbmit-content-wrapper">
                               <div className="pbmit-heading-desc">
-                                0738-011-11-66 <br />
-                                02085992939
+                              0738-011-11-66 <br />
+                              02085992939
                               </div>
                             </div>
                           </div>
@@ -169,10 +167,10 @@ function Contact() {
                     </div>
 
                     {/* Slide4 */}
-                    <div className="col-md-3">
-                      <article className="pbmit-miconheading-style-7">
-                        <div className="pbmit-ihbox-style-7">
-                          <div className="pbmit-ihbox-box">
+                    <div className="col-md-3 d-flex align-items-stretch">
+                      <article className="pbmit-miconheading-style-7 h-100">
+                        <div className="pbmit-ihbox-style-7 h-100">
+                          <div className="pbmit-ihbox-box h-100">
                             <div className="pbmit-icon-wrapper d-flex align-items-center">
                               <div className="pbmit-ihbox-icon">
                                 <div className="pbmit-ihbox-icon-wrapper">
@@ -186,10 +184,10 @@ function Contact() {
                               </div>
                             </div>
                             <div className="pbmit-content-wrapper">
-                              <div className="pbmit-heading-desc">
-                              <FaSquareInstagram className="fa-2x "/>
-                              <AiFillTwitterCircle className="fa-2x"/>
-                              <FaFacebook className="fa-2x"/>
+                              <div className="pbmit-heading-desc ">
+                                <FaSquareInstagram className="fa-2x me-2" />
+                                <AiFillTwitterCircle className="fa-2x me-2" />
+                                <FaFacebook className="fa-2x " />
                               </div>
                             </div>
                           </div>
@@ -203,6 +201,7 @@ function Contact() {
                         </div>
                       </article>
                     </div>
+
                   </div>
                 </div>
 

@@ -34,3 +34,7 @@
 .image-container .image-box.middle:not(:hover) {
     width: 50%; 
 }
+
+.next-section {
+    padding-top: 60px;
+}

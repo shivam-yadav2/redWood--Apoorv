@@ -811,12 +811,14 @@
 }
 .service-sidebar .all-post-list ul li{
 	position: relative;
+   
 	line-height: 20px;
 	border-bottom: 1px solid rgba(var(--pbmit-blackish-color-rgb),.1);
 }
 .service-sidebar .all-post-list ul li a{
 	padding: 16px 60px 16px 25px;
     display: block;
+    width: 60vw;
     position: relative;
     border-radius: 0;
     font-size: 14px;
@@ -967,9 +969,10 @@
 }
 /** 04 - Portfolio Detail **/
 .portfolio-single .pbmit-short-description{
+    
 	text-align: center;
-    padding: 55px 0;
-    border-bottom: 1px solid rgba(var(--pbmit-blackish-color-rgb), 0.2);
+    
+   
 }
 .portfolio-single .pbmit-short-description h3{
 	font-size: 48px;
@@ -1019,7 +1022,7 @@
     transform: rotate(27deg);
 }
 .portfolio-single .pbmit-featured-img-wrapper{
-	padding-bottom: 80px;
+	padding-bottom: 50px;
 }	
 .portfolio-single .pbmit-featured-img-wrapper img{
 	border-radius: 30px;
@@ -1047,6 +1050,7 @@
     background-repeat: no-repeat;
     background-size: cover;
 	border-radius: 30px;
+    margin-top: 50px;
 	margin-bottom: 50px;
 	padding: 225px 0px 225px 0px;
 }

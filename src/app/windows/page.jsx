@@ -1,5 +1,5 @@
-import Navbar from "@/components/Navbar";
-import React from "react";
+import Navbar from '@/components/Navbar'
+import React from 'react'
 
 function page() {
   return (
@@ -356,7 +356,7 @@ function page() {
         {/* Page Content End */}
       </div>
     </div>
-  );
+  )
 }
 
-export default page;
+export default page

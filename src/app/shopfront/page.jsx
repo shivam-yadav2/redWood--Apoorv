@@ -17,7 +17,7 @@ function page() {
               <div className="pbmit-title-bar-content-inner">
                 <div className="pbmit-tbar">
                   <div className="pbmit-tbar-inner container">
-                    <h1 className="pbmit-tbar-title"> Minimalism</h1>
+                    <h1 className="pbmit-tbar-title">Shopfronts</h1>
                   </div>
                 </div>
                 <div className="pbmit-breadcrumb">
@@ -40,7 +40,7 @@ function page() {
                     </span>
                     <span>
                       <a title href="#" className="home">
-                        <span>Shopfront</span>
+                        <span>Shopfronts</span>
                       </a>
                     </span>
 
@@ -58,9 +58,11 @@ function page() {
           <section className="site-content">
             <div className="container">
               <article className="portfolio-single">
+
+                {/* service section  start  */}
                 <div className="pbmit-short-description">
                   <h3>Aluminum Shop Fronts</h3>
-                  <p>
+                  <p  className="text-start">
                     Shop fronts are designed to make the best possible utilization of the accessible space and light, and we might meet any.design which you come up with. Aluminum provides an exceptional solution in the construction industry. It resistant to the usual corrosion that’s caused by today’s atmospheric pollutants. It’s lightweight but in the same time lasting and strong, allowing architects to have a sizable repertoire of possible designs.
                   </p>
                 </div>
@@ -122,7 +124,7 @@ function page() {
 
                   <div className="pbmit-short-description next-section">
                     <h3>Automatic Doors</h3>
-                    <p>
+                    <p  className="text-start">
                       The automatic door systems from Redwood Shopfront open up an almost unlimited range of door design options. Daily, millions of people enjoy their natural convenience. The most modern of innovative drives in which high performance capability, security, convenience and design are a priority and go towards ensuring that the automatic door solutions from GEZE are both the focus and the eye catcher of every entrance area.
                     </p>
                   </div>
@@ -176,7 +178,7 @@ function page() {
 
                   <div className="pbmit-short-description next-section">
                     <h3>BI-folding Entrance doors</h3>
-                    <p>
+                    <p  className="text-start">
                       There are many sorts of doorways available on the marketplace for your house. Bi folding doors are the entry doors used inside a house for a kitchen pantry or a cabinet and to areas that are different. Though four doors might be used for a sized opening, they are comprised of 2 door segments attached by hinges to fold. The entry doors are set within a track situated to fold. External bi entry doors are another sort of doorway which sets apart outside and the interior of a house. Instead of a glass door, the bi folding doors may be used to access in addition to throw the house open.
                     </p>
                   </div>
@@ -271,7 +273,7 @@ function page() {
                   {/* next service */}
                   <div className="pbmit-short-description next-section">
                     <h3>Frameless Glass Shopfronts</h3>
-                    <p>
+                    <p  className="text-start">
                       The design of a frameless glass shopfront is an important consideration for any retail business. Cover Frameless Glass can custom design and install a frameless glass shopfront to meet the highest quality standards and security. <br /> Our Frameless Glass Shop Fronts, Screens and Entrance Systems are an attractive solution for commercial properties who require a minimalist and sophisticated look. <br /> Our Frameless Glass Shop Fronts, Screens and Entrance Systems are designed to suit individual requirements, available in either 10mm or 12mm thickness, using toughened safety glass, and joined using purpose made clamps and fittings which are available in Satin Anodised, Satin Stainless or Brushed Stainless Steel Finishes.
                     </p>
                   </div>
@@ -330,7 +332,7 @@ function page() {
                   {/* next service */}
                   <div className="pbmit-short-description next-section">
                     <h3>Canopies and Awnings</h3>
-                    <p>
+                    <p  className="text-start">
                       There are many sorts of doorways available on the marketplace for your house. Bi folding doors are the entry doors used inside a house for a kitchen pantry or a cabinet and to areas that are different. Though four doors might be used for a sized opening, they are comprised of 2 door segments attached by hinges to fold. The entry doors are set within a track situated to fold. External bi entry doors are another sort of doorway which sets apart outside and the interior of a house. Instead of a glass door, the bi folding doors may be used to access in addition to throw the house open. <br /> These kind of entrances are manufactured with a glazing, which could help protect the home from glass. Express Bi folding Door is a venture provides an array of bi folding doors and found in the UK. They could manage both residential and commercial jobs. They use the Intelligent Visofold Method. Express generates the doors thus a third party isn’t for that reason no party and involved. The consumer can buy the doors and handle the installation by themselves, or may ask the installation to be carried out by Express. There’s also the usual ten year warranty in the product. There are 3 Important types of bi folding doors offered with Express: aluminum, wood, and a composite type of timber together with aluminum.
                     </p>
                   </div>
@@ -369,7 +371,7 @@ function page() {
                   <div className="pbmit-short-description next-section">
                     <h3>Timber Shopfronts</h3>
 
-                    <p> Redwood Shopfront in Ilford, London has an expertise in installing and maintenance of Timber Shopfront with all other related services. <br />  Any company can’t create traffic of customers based on solutions, quality material products, and location, they’ll need while they walk in infrastructure or an outlet which may attract customers. To have an infrastructure that is gorgeous, store fronts is conducive to make an image of one’s business. For any company it is essential to put money into the look of their small business shop. As people make their decision based upon which they see to the first time or which distinguishes them the maximum. Down below are the 3 store fronts ideas that one has to consider. Aluminum Shop Fronts – This layout is an economical solution and versatile. The doors are fitted with the aid of over head spring which are concealed. Additionally, the doors swing open together with control, if needed or may come in sliding. This design may be a practical choice for that company who’d like to provide a simple and corporate touch.
+                    <p  className="text-start"> Redwood Shopfront in Ilford, London has an expertise in installing and maintenance of Timber Shopfront with all other related services. <br />  Any company can’t create traffic of customers based on solutions, quality material products, and location, they’ll need while they walk in infrastructure or an outlet which may attract customers. To have an infrastructure that is gorgeous, store fronts is conducive to make an image of one’s business. For any company it is essential to put money into the look of their small business shop. As people make their decision based upon which they see to the first time or which distinguishes them the maximum. Down below are the 3 store fronts ideas that one has to consider. Aluminum Shop Fronts – This layout is an economical solution and versatile. The doors are fitted with the aid of over head spring which are concealed. Additionally, the doors swing open together with control, if needed or may come in sliding. This design may be a practical choice for that company who’d like to provide a simple and corporate touch.
                     </p>
                   </div>
 

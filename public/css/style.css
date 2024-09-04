@@ -811,14 +811,14 @@
 }
 .service-sidebar .all-post-list ul li{
 	position: relative;
-   
 	line-height: 20px;
 	border-bottom: 1px solid rgba(var(--pbmit-blackish-color-rgb),.1);
 }
+
 .service-sidebar .all-post-list ul li a{
 	padding: 16px 60px 16px 25px;
     display: block;
-    width: 60vw;
+    width: 30vw;
     position: relative;
     border-radius: 0;
     font-size: 14px;

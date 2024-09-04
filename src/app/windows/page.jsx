@@ -1,5 +1,6 @@
 import Navbar from '@/components/Navbar'
 import React from 'react'
+import "./windows.css"
 
 function page() {
   return (
@@ -17,14 +18,14 @@ function page() {
               <div className="pbmit-title-bar-content-inner">
                 <div className="pbmit-tbar">
                   <div className="pbmit-tbar-inner container">
-                    <h1 className="pbmit-tbar-title"> Minimalism</h1>
+                    <h1 className="pbmit-tbar-title">Windows</h1>
                   </div>
                 </div>
                 <div className="pbmit-breadcrumb">
                   <div className="pbmit-breadcrumb-inner">
                     <span>
                       <a title href="#" className="home">
-                        <span>Xinterio</span>
+                        <span>Home</span>
                       </a>
                     </span>
                     <span className="sep">
@@ -32,7 +33,7 @@ function page() {
                     </span>
                     <span>
                       <a title href="#" className="home">
-                        <span>Portfolio</span>
+                        <span>Services</span>
                       </a>
                     </span>
                     <span className="sep">
@@ -40,18 +41,11 @@ function page() {
                     </span>
                     <span>
                       <a title href="#" className="home">
-                        <span>Furniture</span>
+                        <span>Windows</span>
                       </a>
                     </span>
-                    <span className="sep">
-                      <i className="pbmit-base-icon-angle-right" />
-                    </span>
-                    <span>
-                      <span className="post-root post post-post current-item">
-                        {" "}
-                        Minimalism
-                      </span>
-                    </span>
+
+
                   </div>
                 </div>
               </div>
@@ -65,246 +59,315 @@ function page() {
           <section className="site-content">
             <div className="container">
               <article className="portfolio-single">
+
+                {/* service section  start  */}
                 <div className="pbmit-short-description">
-                  <h3>Overview</h3>
-                  <p>
-                    If you run an internet search for Xinterio blogs, you’ll
-                    come across hundreds of results. And figuring out which
-                    sources are reputable can take a lot of time. To help ease
-                    the process, we compiled this list of 55 of our favorite
-                    Xinterio blogs everyone in the field can learn from. Whether
-                    you’re, you’ve been a expert for years, or you{" "}
-                    <span className="pbmit-globalcolor">
-                      <u>simply want to know</u>
-                    </span>{" "}
-                    how make considering building interior well-informed
-                    decisions about your own home, there’s something on this
-                    list for any type of residential interior work. Keep this
-                    list of Xinterio blogs handy and the answers to your
-                    interior away.
+                  <h3>Aluminum Windows</h3>
+                  <p className="text-start">
+                    By responding to the needs and concepts of our clients who expect a durable, interesting, and original look, we provide a wide range of colors. Aluminum window have gotten increasingly fashionable with homeowners who need a gorgeous, vitality environment friendly window that requires little or no maintenance and that has an extended lifespan. As soon as who have fitted them, turn into sure about their durability. In case you combine that number with textured timber grain effect finishes, and the very fact that you could have one color inside and another color outside, the result is an virtually limitless choice for colored aluminum windows. And at the top of the day, you’d realize that you haven’t made the fallacious selection. The finishes embody matte, solid, shiny, and so on. You may as well get it customized paint finishes or faux finishes of your individual alternative. The clad may have to get repainted however when you choose a color, you’ll dwell with it forever. Cutting out the middlemen will really save you a fairly penny, especially when each of the sellers will most probably upsell the bay window by 15% or extra. <br />
+                    Aluminum window assure is not relevant if the signed settlement or its complement comprises the statement that guarantee isn’t supplied. The aluminum doors and windows are eco pleasant and are also simply recyclable, even PVC doorways and windows will be recycled however clearly it is the aluminum doorways and windows that wins in this context. PVC is usually cheaper than aluminum and in addition has comparable energy and safety benefits in addition to being durable. For sheer looks, safety and durability, there’s simply nothing to match aluminum doorways and windows. The opposite benefit of the aluminum doorways and home windows is that they can be found in a huge range of shapes, designs, sizes and with totally different coloration finishes. Mounted windows are made to order, subsequently no example standard sizes are available. Standard wood and wood clad windows are expensive, extra so than aluminum or vinyl. The doorways and windows manufactured from aluminum are extraordinarily useful and can be recycled. The industry is brimming with installers of aluminum windows or folding doorways and this is good for the consumers within the sense that competition drives costs down. Redwood Shopfront has been involved within the home windows & doorways trade for over 10 years.
                   </p>
                 </div>
-                <div className="pbmit-single-project-details-list">
-                  <h3>Project info</h3>
-                  <div className="pbmit-portfolio-lines-wrapper">
-                    <ul className="pbmit-portfolio-lines-ul">
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Architect :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          David Oswald
-                        </span>
-                      </li>
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Client :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          Themestek
-                        </span>
-                      </li>
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Terms :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          6 month
-                        </span>
-                      </li>
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Project Type :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          Furniture
-                        </span>
-                      </li>
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Strategy :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          Minimalistic
-                        </span>
-                      </li>
-                      <li className="pbmit-portfolio-line-li">
-                        <span className="pbmit-portfolio-line-title">
-                          Date :{" "}
-                        </span>
-                        <span className="pbmit-portfolio-line-value">
-                          November 22, 2020
-                        </span>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
+
                 <div className="pbmit-featured-img-wrapper">
-                  <img
-                    src="images/portfolio/portfolio-single-01.jpg"
-                    className="w-100"
-                    alt
-                  />
-                </div>
-                <div className="pbmit-entry-content">
-                  <div className="pbmit-heading animation-style2">
-                    <h2 className="pbmit-title">Design in Details</h2>
-                  </div>
-                  <p className="pbmit-firstletter">
-                    We are make interior spaces functional, safe, and beautiful
-                    for almost every type of building. Interior designers make
-                    indoor spaces functional, safe, and beautiful by determining
-                    space requirements and selecting essential and decorative
-                    items,{" "}
-                    <span className="pbmit-globalcolor">
-                      <u>such as colors, lighting, and materials.</u>
-                    </span>{" "}
-                    Interior design can transform spaces, making them visually
-                    appealing and functional. Improved functionality It
-                    optimizes spaces for better use, ensuring efficient layouts
-                    and maximizing functionality.
-                  </p>
-                  <p>
-                    Our skilled designers and professionals are strive to
-                    provide exceptional interior design services that exceed
-                    your expectations. Interior designing is a highly lucrative
-                    business, but it takes some time to build a high income from
-                    this profession. Overall, interior design is an important
-                    aspect of architecture that focuses on creating functional,
-                    visually appealing, and comfortable interior spaces that
-                    meet the needs of the building’s occupants.
-                  </p>
-                  <div className="ihbox-style-area">
-                    <div className="row g-0">
-                      <div className="col-md-6 col-xl-3">
-                        <div className="pbmit-ihbox-style-14">
-                          <div className="pbmit-ihbox-box">
-                            <div className="pbmit-icon-wrapper">
-                              <h2 className="pbmit-element-title">[30m2]</h2>
-                              <div className="pbmit-heading-desc">Bedroom</div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-md-6 col-xl-3">
-                        <div className="pbmit-ihbox-style-14">
-                          <div className="pbmit-ihbox-box">
-                            <div className="pbmit-icon-wrapper">
-                              <h2 className="pbmit-element-title">[22m2]</h2>
-                              <div className="pbmit-heading-desc">Bathroom</div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-md-6 col-xl-3">
-                        <div className="pbmit-ihbox-style-14">
-                          <div className="pbmit-ihbox-box">
-                            <div className="pbmit-icon-wrapper">
-                              <h2 className="pbmit-element-title">[28m2]</h2>
-                              <div className="pbmit-heading-desc">
-                                Workspace
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-md-6 col-xl-3">
-                        <div className="pbmit-ihbox-style-14">
-                          <div className="pbmit-ihbox-box">
-                            <div className="pbmit-icon-wrapper">
-                              <h2 className="pbmit-element-title">[15m2]</h2>
-                              <div className="pbmit-heading-desc">
-                                Kitchen area
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
                   <div className="pf-img-box">
                     <div className="row">
-                      <div className="col-md-6">
-                        <div className="pbmit-animation-style1 me-md-3 first-img">
-                          <img
-                            src="images/portfolio/portfolio-detail-01.jpg"
-                            className="img-fluid"
-                            alt
-                          />
-                        </div>
-                      </div>
-                      <div className="col-md-6">
-                        <div className="pbmit-animation-style2 ms-md-3">
-                          <img
-                            src="images/portfolio/portfolio-detail-02.jpg"
-                            className="img-fluid"
-                            alt
-                          />
+                      <div className="col-md-12">
+                        <div className="d-flex image-container">
+                          <div className="image-box left">
+                            <img
+                              src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Aluminium-Windows.png.bv_resized_desktop.png.bv.webp"
+                              className="img-fluid"
+                              alt="Portfolio Detail 01"
+                            />
+                          </div>
+                          <div className="image-box middle">
+                            <img
+                              src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Aluminium-Windows_small.png.bv_resized_desktop.png.bv.webp"
+                              alt="Portfolio Detail 02"
+                            />
+                          </div>
+                          <div className="image-box right">
+                            <img
+                              src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/IMG-0102.jpg?bwg=1697722315"
+                              className="img-fluid"
+                              alt="Portfolio Detail 03"
+                            />
+                          </div>
                         </div>
                       </div>
                     </div>
-                    <div className="mt-4">
+                  </div>
+                </div>
+
+
+                <div className="pbmit-entry-content">
+
+                  {/* next service */}
+
+                  <div className="pbmit-short-description next-section">
+                    <h3>Door Blinds</h3>
+                    <p className="text-start">
+                      Regardless if you require solitude or shading for a door, front door or internal door, a blind is an excellent option to give you more control. However, how do you pick the right kind?. <br />
+                      Our range of match blinds are an excellent option for to uPVC doors, especially single doors. They fit perfectly in the window area in your door, which means they stay in position as you start and close the door – ideal for minimizing harm to the blind. Perfect fit dividers can be found in designs for doors. Bigger door spaces frequently work nicely with panel or vertical blinds. <br />
+                      You may also decide to install Venetian, Ancient Rome or roller blinds on patio doors, but it is vital to ensure that the blind’s positioning won’t hinder the door’s functionality. If you’ve obtained an especially draughty door, a curtain is an excellent idea to help reduce this. <br />
+                      You do not even need to have a pair – a curtain could be attracted on one side for minimal material with maximum light and draft control. There are a number of additional things to contemplate when measuring to get a door blind. Most of all, you must ensure that the positioning of the blind will not stop it from opening correctly – particularly if the door opens inwards.You do not even need to have a pair – a curtain could be attracted on one side for minimal material with maximum light and draft control. There are a number of additional things to contemplate when measuring to get a door blind. Most of all, you must ensure that the positioning of the blind will not stop it from opening correctly – particularly if the door opens inwards. <br />
+                      Take into consideration the door handles too – will they block the blind?. If you are measuring to get a roller blind, first step the blind fabric width, and after that take into consideration the demand for the exact bracket-to bracket measurement to be 3cm wider. <br />
+                      If you are measuring for patio doors, and have chosen vertical or panel dividers, ensure you consider just how much space the blind will assume in want to ensure it won’t be in the manner of the door when functioning.
+                    </p>
+                  </div>
+
+                  <div className="pbmit-featured-img-wrapper">
+                    <div className="pf-img-box">
                       <div className="row">
-                        <div className="col-md-6">
-                          <div className="pbmit-animation-style3 me-md-3 third-img">
-                            <img
-                              src="images/portfolio/portfolio-detail-03.jpg"
-                              className="img-fluid"
-                              alt
-                            />
-                          </div>
-                        </div>
-                        <div className="col-md-6">
-                          <div className="pbmit-animation-style4 ms-md-3">
-                            <img
-                              src="images/portfolio/portfolio-detail-04.jpg"
-                              className="img-fluid"
-                              alt
-                            />
+                        <div className="col-md-12">
+                          <div className="d-flex image-container">
+                            <div className="image-box left">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Blind_Glass_Door.jpg.bv_resized_desktop.jpg.bv.webp"
+                                className="img-fluid"
+                                alt="Portfolio Detail 01"
+                              />
+                            </div>
+                            <div className="image-box middle">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Blind_Glass_Door3.jpg.bv_resized_desktop.jpg.bv.webp"
+                              />
+                            </div>
+                            <div className="image-box right">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/Bi-Folding_Doors7.jpg?bwg=1697722315"
+                                className="img-fluid"
+                                alt="Portfolio Detail 03"
+                              />
+                            </div>
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
-                  <div className="py-5">
-                    <div className="pbmit-heading animation-style2">
-                      <h2 className="pbmit-title">
-                        What say our Client’s about design
-                      </h2>
-                    </div>
-                    <div>
-                      The interior designer may also work with engineers and
-                      contractors to ensure that the design is feasible and can
-                      be implemented within the construction budget. We believe
-                      that a well-designed space can have a profound impact on
-                      your well-being and quality of life. With a team of
-                      skilled designers and professionals, we are strive to
-                      provide exceptional interior design services that exceed
-                      your expectations.
-                    </div>
-                    <div className="ihbox-style-15-area">
-                      <div className="pbmit-ihbox-style-15">
-                        <div className="pbmit-ihbox-box d-flex">
-                          <div className="pbmit-ihbox-icon">
-                            <div className="pbmit-ihbox-icon-wrapper pbmit-icon-type-icon">
-                              <i className="pbmit-xinterio-icon pbmit-xinterio-icon-quote-left" />
+
+
+                  {/* next service */}
+
+                  <div className="pbmit-short-description next-section">
+                    <h3>House Door Installation & Repair</h3>
+                    <p className="text-start">
+                      Doors Are Gateways To & Throughout Your Home. Although you may not think of them often, doors serve as a critical component of your home’s functionality and aesthetic. If you aren’t happy with their look-or if they are broken in some way-it is crucial that you contact one of the professional from our team. Our interior and exterior door installation services can improve the curb appeal and value of your home while also saving you energy by having functioning doors that fit properly. <br />
+                      Doors receive a lot of wear and tear throughout their life, and many homeowners have older homes with older doors that are important to the style of the home. If you do not want to replace an ailing door, then repair is almost always an option. With one call, you can have an insured and qualified professional to tackle the job quickly, whether it be entry door repair or work on interior doors. For sticking, dents, squeaking, air leaks, damaged door jambs, rotting/soft wood, broken locks, screen repairs, roller issues on pocket or sliding doors, whatever the issue, you will get the door repair service you need.
+                    </p>
+                  </div>
+
+                  <div className="pbmit-featured-img-wrapper">
+                    <div className="pf-img-box">
+                      <div className="row">
+                        <div className="col-md-12">
+                          <div className="d-flex image-container">
+                            <div className="image-box left">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/House_Door2.jpg.bv_resized_desktop.jpg.bv.webp"
+                                className="img-fluid"
+                                alt="Portfolio Detail 01"
+                              />
                             </div>
-                          </div>
-                          <div className="pbmit-ihbox-contents">
-                            <div className="pbmit-heading-desc">
-                              "Their team are easy to work with and helped me
-                              make amazing websites. Thanks guys for all your
-                              hard work. Trust us we looked for a very long
-                              time.”
+                            <div className="image-box middle">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/House_Door.jpg.bv_resized_desktop.jpg.bv.webp"
+                                alt="Portfolio Detail 02"
+                              />
                             </div>
-                            <h2 className="pbmit-element-title">
-                              - Satisfied client
-                            </h2>
+                            <div className="image-box right">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/House_Door2.jpg?bwg=1697722315"
+                                className="img-fluid"
+                                alt="Portfolio Detail 03"
+                              />
+                            </div>
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
+
+
+                  <div className="col-lg-3 service-left-col sidebar">
+                    <div className="service-sidebar">
+                      <h5 className="fw-bold">We can repair and install all kinds of doors, such as:</h5>
+                      <div className="all-post-list">
+                        <ul className="list-unstyled">
+                          <li><a href="service-details.html">
+                            Interior Doors</a></li>
+                          <li><a href="service-details.html">
+                            Exterior Doors</a></li>
+                          <li><a href="service-details.html">Sliding Glass Doors</a></li>
+                          <li><a href="service-details.html">Screen Doors</a></li>
+                          <li><a href="service-details.html">
+                            Storm Doors</a></li>
+                          <li><a href="service-details.html">
+                            French Doors</a></li>
+                          <li><a href="service-details.html">
+                            Pocket Doors</a></li>
+                          <li><a href="service-details.html">
+                            Sliding Barn Doors</a></li>
+                          <li><a href="service-details.html">
+                            Closet Doors</a></li>
+                          <li><a href="service-details.html">
+                            Sticking Doors</a></li>
+                          <li><a href="service-details.html">
+                            Squeaking Doors</a></li>
+                          <li><a href="service-details.html">Air Leaks</a></li>
+                          <li><a href="service-details.html">Damaged Door Jambs</a></li>
+                          <li><a href="service-details.html">
+                            Rotting/Soft Wood</a></li>
+                          <li><a href="service-details.html">
+                            Broken Door Locks</a></li>
+                          <li><a href="service-details.html">Screen Door Repairs</a></li>
+                          <li><a href="service-details.html">
+                            And More!</a></li>
+                        </ul>
+
+
+
+                      </div>
+
+
+                    </div>
+                  </div>
+
+                  {/* next section */}
+                  <div className="pbmit-short-description next-section">
+                    <h3>Roof Windows</h3>
+                    <p className="text-start">
+                      Roof windows must offer functionality, energy efficiency and security without compromising on design. Design considerations with roof windows guarantee each are effective with regards to delivering natural daylight and clean air without pointless heat loss. <br />
+                      By introducing attributes to meet these requirements RedWood ShopFront
+                      roof windows stay the name to trust. Characteristics like an automatic air compressor that provides the optimum degree of air and the security system which increases the standard of burglary resistance have revolutionised the roof windows market. <br />
+                      Whilst the usage of environmentally sustainable technology has empowered RedWood ShopFront to create a few of the most thermally efficient roof windows available in the United Kingdom today. <br />
+                      These are probably the easiest to define because they are covered under BS EN 14351-1:2010. The standard stipulates that roof windows must be installed in the same orientation and ‘in plane’ with the surrounding roof, typically at a minimum 15° pitch. Once installed, they should be weatherproofed using a skirt or flashing. <br />
+                      These are probably the easiest to define because they are covered under BS EN 14351-1:2010. The standard stipulates that roof windows must be installed in the same orientation and ‘in plane’ with the surrounding roof, typically at a minimum 15° pitch. Once installed, they should be weatherproofed using a skirt or flashing. <br />
+                      Roof windows are usually only available in standardised shapes and sizes and are typically smaller than rooflights. However, new products have recently become available using improved glass specifications that allow much larger sizes to be manufactured.
+                    </p>
+                  </div>
+                  <div className="pbmit-featured-img-wrapper">
+                    <div className="pf-img-box">
+                      <div className="row">
+                        <div className="col-md-12">
+                          <div className="d-flex image-container">
+                            <div className="image-box left">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Roof_Window2.jpg.bv_resized_desktop.jpg.bv.webp"
+                                className="img-fluid"
+                                alt="Portfolio Detail 01"
+                              />
+                            </div>
+                            <div className="image-box middle">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Roof_Window.jpg.bv_resized_desktop.jpg.bv.webp"
+                              />
+                            </div>
+                            <div className="image-box right">
+                              <img
+                                src="https://images.unsplash.com/photo-1591618296647-3824fca4468d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8cm9vZiUyMHdpbmRvd3xlbnwwfHwwfHx8MA%3D%3D"
+                                className="img-fluid"
+                                alt="Portfolio Detail 03"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  {/* next service */}
+                  <div className="pbmit-short-description next-section">
+                    <h3>Same-Day Glass Replacement</h3>
+                    <p className="text-start">
+                      The cost for replacement window glass substances varies by size, shape, coating, thickness, sort of window style, and glass, producer. Bay windows and bow windows include small panes of glass during. Casement windows consist of two to 3 large panes of glass. Standard windows are sq, while others can be curved or round. <br />
+                      You may have a simple time finding a substitute for a window that is standard, but if you have a standard window, the maker will have to personalize the glass. Tip: If you are thinking about replacement windows, begin the process by requesting an on-line quote from a contractor in your area to help lead you. <br />
+                      Get a quote now – The kind of glass is among the most typical cost factors for replacement windows. Law requires some sorts of glass and others are designed for ceiling windows. For example, tempered and laminated glass wired and are employed for ceiling windows or fireproof glass has to be utilized in fire door windows. <br />
+                      You will find over a dozen types of glass materials. Some of the most typical are: float glass or Standard is your kind of glass. Add any extras, and the cost increases to more\. This sort of glass is clear with a finish. Heat glass prices vary from size therefore a set range of costs doesn’t exist.
+                    </p>
+                  </div>
+
+                  <div className="pbmit-featured-img-wrapper">
+                    <div className="pf-img-box">
+                      <div className="row">
+                        <div className="col-md-12">
+                          <div className="d-flex image-container">
+                            <div className="image-box left">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/24-Hours-Glass-Replacement-550x400-1.png.bv_resized_desktop.png.bv.webp"
+                                className="img-fluid"
+                                alt="Portfolio Detail 01"
+                              />
+                            </div>
+                            <div className="image-box middle">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/24-Hours-Glass-Replacement_small-390x300-1.jpg.bv_resized_desktop.jpg.bv.webp"
+                              />
+                            </div>
+                            <div className="image-box right">
+                              <img
+                                src="https://media.istockphoto.com/id/450754089/photo/broken-glass.jpg?s=612x612&w=0&k=20&c=KCN5o2nDocOAJqTU_ThvkPr859S-iakiKanJP-NCnxY="
+                                className="img-fluid"
+                                alt="Portfolio Detail 03"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div className="p-3">
+
+                    <span className="fw-bold fs-4">Types of Glasses <br /></span>
+                    <p className="text-start mt-2">This kind of glass would be common in buildings with large expanses of glass. Strong glass would be available in laminated, tempered, wired, and flame resistant styles. All types protect against shattering. Fire resistant glass is your most expensive. Shatterproof glass is common in areas predisposed towards hurricanes. The glass would be layered and thick, so its less affordable than coated or single pane glass. <br />
+                      Specialty glass like mirror glass or self cleaning glass is not energy efficient or shatterproof, however it does serve a purpose. Mirror glass is usually used on contemporary buildings to create a reflecting effect on the exterior. Self cleaning glass uses a special coating on your exterior surface which allows sunlight to break down dirt.
+                    </p>
+
+                  </div>
+
+                  {/* next service */}
+                  <div className="pbmit-short-description next-section">
+                    <h3>Timber Window</h3>
+                    <p className="text-start">
+                      When you buy a window, you’re paying for the standard of the supplies as well as the standard of the set up and the reliability of the customer support. We’re dedicated to offering our customers with distinctive customer service. We offer completely free estimates and identical day service as effectively. It isn’t uncommon in comparing completely different vinyl substitute windows to search out windows that are identical in appearance because they get their vinyl frames from the identical supplier. <br />
+                      If you want the glass repair performed that same day, consider getting it changed with clear flat glass. Not many window damages require full alternative, in truth you will often be able to find an applicable restore resolution, significantly in the event you contact a window restore professional where you get skilled outcomes for a very competitive value. You will find that more often than not you’ll be capable to restore your home windows; nevertheless it is necessary to concentrate on when window replacements are essential. <br />
+                      There’s nothing better than having natural light stream its way into your house, and quality home windows are the easiest way to verify you’ve as very like as potential spilling into your home. What are windows fabricated from? Windows such as these have to be made from a template and are often time-consuming. Different enhancements are usually supplied as options. <br />
+                      Most homeowners are unaware that there is a difference between Glass Replacement and Window Substitute. We can even change foggy window glass in doors! They’re the extras that could make a window match your own home and particular wants. Seal effectiveness – drafty windows are a drain on your vitality invoice.
+
+                    </p>
+                  </div>
+                  <div className="pbmit-featured-img-wrapper">
+                    <div className="pf-img-box">
+                      <div className="row">
+                        <div className="col-md-12">
+                          <div className="d-flex image-container">
+                            <div className="image-box left">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Timber_Window_3.png.bv_resized_desktop.png.bv.webp"
+                                className="img-fluid"
+                                alt="Portfolio Detail 01"
+                              />
+                            </div>
+                            <div className="image-box middle">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Timber_Window_2.png.bv_resized_desktop.png.bv.webp"
+                              />
+                            </div>
+                            <div className="image-box right">
+                              <img
+                                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/Timber_Window_5.jpg?bwg=1697722315"
+                                className="img-fluid"
+                                alt="Portfolio Detail 03"
+                              />
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
                   <div className="portfolio-video-bg animated fadeInRight animated-slow">
                     <div className="play-button">
                       <a
@@ -316,38 +379,7 @@ function page() {
                     </div>
                   </div>
                 </div>
-                <nav className="navigation post-navigation" aria-label="Posts">
-                  <div className="nav-links">
-                    <div className="nav-previous">
-                      <a href="blog-single-details.html" rel="prev">
-                        <span className="pbmit-post-nav-icon">
-                          <i className="pbmit-base-icon-left-arrow-1" />
-                          <span className="pbmit-post-nav-head">
-                            Previous Post
-                          </span>
-                        </span>
-                        <span className="pbmit-post-nav-wrapper">
-                          <span className="pbmit-post-nav nav-title">
-                            Lighting
-                          </span>
-                        </span>
-                      </a>
-                    </div>
-                    <div className="nav-next">
-                      <a href="#" rel="next">
-                        <span className="pbmit-post-nav-icon">
-                          <span className="pbmit-post-nav-head">Next Post</span>
-                          <i className="pbmit-base-icon-next" />
-                        </span>
-                        <span className="pbmit-post-nav-wrapper">
-                          <span className="pbmit-post-nav nav-title">
-                            Innovation
-                          </span>
-                        </span>
-                      </a>
-                    </div>
-                  </div>
-                </nav>
+
               </article>
             </div>
           </section>

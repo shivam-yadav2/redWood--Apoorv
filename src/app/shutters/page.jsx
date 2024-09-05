@@ -84,21 +84,21 @@ function page() {
         <div className="d-flex image-container">
           <div className="image-box left">
             <img
-              src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/65228602-8332-4d94-a644-a81bc53f0d70.jpg?bwg=1697722313"
+              src="images/redWoodImg/02-1.jpg"
               className="img-fluid"
               alt="Portfolio Detail 01"
             />
           </div>
           <div className="image-box middle">
             <img
-              src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Perforated-Shutters.jpg.bv_resized_desktop.jpg.bv.webp"
+              src="images/redWoodImg/shutterblack.jpg"
               className="img-fluid"
               alt="Portfolio Detail 02"
             />
           </div>
           <div className="image-box right">
             <img
-              src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/abfa3452-f27a-4e82-a674-62ce4526f961.jpg?bwg=1697722313"
+              src="images/redWoodImg/blue.jpg"
               className="img-fluid"
               alt="Portfolio Detail 03"
             />
@@ -131,19 +131,19 @@ function page() {
           <div className="d-flex image-container">
             <div className="image-box left">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Polycarbonate-Shutters.jpg.bv_resized_desktop.jpg.bv.webp"
+                src="images/redWoodImg/polyshutter.webp"
                 className="img-fluid"
                 alt="Portfolio Detail 01"
               />
             </div>
             <div className="image-box middle">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/03fae4db-d535-4998-8bfc-6dee1c65c3a8.jpg?bwg=1697722313"
+                src="images/redWoodImg/poly.webp"
               />
             </div>
             <div className="image-box right">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/19428D75-8790-4C2F-B8BA-8E9E50074F0F1-scaled.jpg.bv_resized_desktop.jpg.bv.webp"
+                src="images/redWoodImg/polyshutter.webp"
                 className="img-fluid"
                 alt="Portfolio Detail 03"
               />
@@ -174,20 +174,20 @@ function page() {
           <div className="d-flex image-container">
             <div className="image-box left">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/IMG-0162-1.jpg.bv_resized_desktop.jpg.bv.webp"
+                src="images/redWoodImg/IMG-0162.jpg"
                 className="img-fluid"
                 alt="Portfolio Detail 01"
               />
             </div>
             <div className="image-box middle">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/IMG-0161.png.bv_resized_desktop.png.bv.webp"
+                src="images/redWoodImg/hole.webp"
                 alt="Portfolio Detail 02"
               />
             </div>
             <div className="image-box right">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/IMG-0160-1.jpg?bwg=1697722315"
+                src="images/redWoodImg/IMG-0160.jpg"
                 className="img-fluid"
                 alt="Portfolio Detail 03"
               />
@@ -232,19 +232,19 @@ function page() {
           <div className="d-flex image-container">
             <div className="image-box left">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Roller_Grill_Shutter.jpg.bv_resized_desktop.jpg.bv.webp"
+                src="images/redWoodImg/whiteshutter.webp"
                 className="img-fluid"
                 alt="Portfolio Detail 01"
               />
             </div>
             <div className="image-box middle">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Rolling-Grill-Shutters_small-370x300-1.jpg.bv_resized_desktop.jpg.bv.webp"
+                src="images/redWoodImg/Rolling-Grill.webp"
               />
             </div>
             <div className="image-box right">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/IMG-0162.jpg?bwg=1697722315"
+                src="images/redWoodImg/IMG-0160.jpg"
                 alt="Portfolio Detail 03"
               />
             </div>
@@ -297,19 +297,19 @@ function page() {
           <div className="d-flex image-container">
             <div className="image-box left">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Solid-Roller-Shutters-370x370-1.jpg.bv_resized_desktop.jpg.bv.webp"
+                src="images/redWoodImg/Solid.webp"
                 className="img-fluid"
                 alt="Portfolio Detail 01"
               />
             </div>
             <div className="image-box middle">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2016/05/roller-shutter.jpg.bv_resized_desktop.jpg.bv.webp"
+                src="images/redWoodImg/roller-shutter.webp"
               />
             </div>
             <div className="image-box right">
               <img
-                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/65228602-8332-4d94-a644-a81bc53f0d70.jpg?bwg=1697722313"
+                src="images/redWoodImg/red.jpg"
                 className="img-fluid"
                 alt="Portfolio Detail 03"
               />

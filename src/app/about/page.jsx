@@ -193,7 +193,7 @@ function page() {
                                             RedWood ShopFront is now of the UK's leading installers of commercial retail shopfronts and thrive to provide highest specification to our client's requirements.
                                         </div>
                                     </div>
-                                    <div className="row px-5 pbmit-fid-style-one">
+                                    <div className="row px-10 g-5 pbmit-fid-style-one">
                                         <div className="col-md-6">
                                             <div className="pbminfotech-ele-fid-style-1">
                                                 <div className="pbmit-fld-contents d-flex  align-items-center" style={{
@@ -241,8 +241,9 @@ function page() {
                                         </div>
                                         <div className="col-md-6">
                                             <div className="pbminfotech-ele-fid-style-1">
-                                                <div className="pbmit-fld-contents d-flex align-items-center" style={{
+                                                <div className="pbmit-fld-contents d-flex align-items-center " style={{
                                                     gap: "40px"
+                                                   
                                                 }}>
                                                     <div
                                                         className="pbmit-circle-outer"
@@ -254,9 +255,9 @@ function page() {
                                                         data-thickness={1}
                                                         data-size={127}
                                                     >
-                                                        <div className="pbmit-circle">
+                                                        <div className="pbmit-circle pl-3">
                                                             <div className="pbmit-fid-inner">
-                                                                <span className="pbmit-fid-before" />
+                                                                <span className="pbmit-fid-before  " />
                                                                 <span
                                                                     className="pbmit-number-rotate numinate"
                                                                     data-appear-animation="animateDigits"
@@ -290,7 +291,7 @@ function page() {
                             <div className="col-md-12 col-xl-6">
                                 <div className="twentytwenty-container">
                                     {/* <img src="images/homepage-3/after.png" alt="Before" /> */}
-                                    <img src="https://xinterio-demo.pbminfotech.com/html-demo/images/homepage-3/before.png" alt="After" />
+                                    <img src="images/homepage-1/blog/blog-01.jpg" alt="After" />
                                 </div>
 
 
@@ -394,7 +395,6 @@ function page() {
                 <section className="section-md">
                     <div className="container">
                         <div className="pbmit-heading-subheading text-center animation-style3">
-                            <h4 className="pbmit-subtitle">since 1986</h4>
                             <h2 className="pbmit-title">Our Projects</h2>
                         </div>
                         <ProjectSlider />

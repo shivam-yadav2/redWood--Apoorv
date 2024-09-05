@@ -74,21 +74,21 @@ function page() {
                         <div className="d-flex image-container">
                           <div className="image-box left">
                             <img
-                              src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2018/12/Aluminum-Shop-Fronts_small.jpg.bv_resized_desktop.jpg.bv.webp"
+                              src="images/redWoodImg/02.jpg"
                               className="img-fluid"
                               alt="Portfolio Detail 01"
                             />
                           </div>
                           <div className="image-box middle">
                             <img
-                              src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2018/12/Aluminum-Shop-Fronts.jpg.bv_resized_desktop.jpg.bv.webp"
+                              src="images/redWoodImg/06.jpg"
                               className="img-fluid"
                               alt="Portfolio Detail 02"
                             />
                           </div>
                           <div className="image-box right">
                             <img
-                              src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/19428D75-8790-4C2F-B8BA-8E9E50074F0F1-scaled.jpg.bv_resized_desktop.jpg.bv.webp"
+                              src="images/redWoodImg/00.webp"
                               className="img-fluid"
                               alt="Portfolio Detail 03"
                             />
@@ -136,20 +136,20 @@ function page() {
                           <div className="d-flex image-container">
                             <div className="image-box left">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/1.jpg?bwg=1697722313"
+                                src="images/redWoodImg/1.jpg"
                                 className="img-fluid"
                                 alt="Portfolio Detail 01"
                               />
                             </div>
                             <div className="image-box middle">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/05.jpg.bv_resized_desktop.jpg.bv.webp"
+                                src="images/redWoodImg/05.jpg"
                                 alt="Portfolio Detail 02"
                               />
                             </div>
                             <div className="image-box right">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/19428D75-8790-4C2F-B8BA-8E9E50074F0F1-scaled.jpg.bv_resized_desktop.jpg.bv.webp"
+                                src="images/redWoodImg/00.webp"
                                 className="img-fluid"
                                 alt="Portfolio Detail 03"
                               />
@@ -190,20 +190,19 @@ function page() {
                           <div className="d-flex image-container">
                             <div className="image-box left">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Bi-Folding_Doors4.jpg.bv_resized_desktop.jpg.bv.webp"
+                                src="images/redWoodImg/Bi-Folding_Doors4.jpg"
                                 className="img-fluid"
                                 alt="Portfolio Detail 01"
                               />
                             </div>
                             <div className="image-box middle">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Bi-Folding-Entrance-Doors-1-744x400-1.jpg.bv_resized_desktop.jpg.bv.webp"
-                                alt="Portfolio Detail 02"
+                                src="images/redWoodImg/1.jpg"
                               />
                             </div>
                             <div className="image-box right">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/Sliding_Doors2.jpg?bwg=1697722315"
+                                src="images/redWoodImg/Sliding_Doors2.jpg"
                                 className="img-fluid"
                                 alt="Portfolio Detail 03"
                               />
@@ -247,19 +246,19 @@ function page() {
                           <div className="d-flex image-container">
                             <div className="image-box left">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/025c6924-4488-4d3c-9d74-dd7ff42efb1e.jpg.bv_resized_desktop.jpg.bv.webp"
+                                src="images/redWoodImg/carswall.jpg"
                                 className="img-fluid"
                                 alt="Portfolio Detail 01"
                               />
                             </div>
                             <div className="image-box middle">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/4f880d04-35d0-438f-9892-936a5be450bb.jpg.bv_resized_desktop.jpg.bv.webp"
+                                src="images/redWoodImg/wall.jpg"
                               />
                             </div>
                             <div className="image-box right">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/2266a000-d7c5-46d7-9eb3-3da05afa122e.jpg?bwg=1697722313"
+                                src="images/redWoodImg/skyline.jpg"
                                 className="img-fluid"
                                 alt="Portfolio Detail 03"
                               />
@@ -285,19 +284,19 @@ function page() {
                           <div className="d-flex image-container">
                             <div className="image-box left">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2018/12/03-Copy.jpg.bv_resized_desktop.jpg.bv.webp"
+                                src="images/redWoodImg/03-3.jpg"
                                 className="img-fluid"
                                 alt="Portfolio Detail 01"
                               />
                             </div>
                             <div className="image-box middle">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/01-3.jpg.bv_resized_desktop.jpg.bv.webp"
+                                src="images/redWoodImg/01-3.jpg"
                               />
                             </div>
                             <div className="image-box right">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/07-2.jpg?bwg=1697722313"
+                                src="images/redWoodImg/07-2.jpg"
                                 className="img-fluid"
                                 alt="Portfolio Detail 03"
                               />
@@ -343,19 +342,19 @@ function page() {
                           <div className="d-flex image-container">
                             <div className="image-box left">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/ae3b8701-88d1-4905-bdba-cbb2125302e1.jpg?bwg=1697722313"
+                                src="images/redWoodImg/08.jpg"
                                 className="img-fluid"
                                 alt="Portfolio Detail 01"
                               />
                             </div>
                             <div className="image-box middle">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Canopies__Awnings.jpg.bv_resized_desktop.jpg.bv.webp"
+                                src="images/redWoodImg/canopy.webp"
                               />
                             </div>
                             <div className="image-box right">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/IMG-0106-1.jpg?bwg=1697722315"
+                                src="images/redWoodImg/IMG-1.jpg"
                                 className="img-fluid"
                                 alt="Portfolio Detail 03"
                               />
@@ -383,19 +382,19 @@ function page() {
                           <div className="d-flex image-container">
                             <div className="image-box left">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/photo-gallery/thumb/Timber_Window_3.jpg?bwg=1697722315"
+                                src="images/redWoodImg/Timber_Window_3.jpg"
                                 className="img-fluid"
                                 alt="Portfolio Detail 01"
                               />
                             </div>
                             <div className="image-box middle">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Timber_Shopfront.jpg.bv_resized_desktop.jpg.bv.webp"
+                                src="images/redWoodImg/Timber.webp"
                               />
                             </div>
                             <div className="image-box right">
                               <img
-                                src="https://redwoodshopfront.co.uk/wp-content/uploads/al_opt_content/IMAGE/redwoodshopfront.co.uk/wp-content/uploads/2023/10/Timber-Shop-Fronts_small-400x270-1.jpg.bv_resized_desktop.jpg.bv.webp"
+                                src="images/redWoodImg/timber.jpg"
                                 className="img-fluid"
                                 alt="Portfolio Detail 03"
                               />
